@@ -1,5 +1,6 @@
-streamlit==1.32.0
+streamlit==1.28.2
 altair==4.2.2
-joblib
-numpy
-scikit-learn
+pillow==9.4.0
+joblib==1.3.2
+numpy==1.24.3
+scikit-learn==1.3.0
