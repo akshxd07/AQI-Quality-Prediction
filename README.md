@@ -1,4 +1,4 @@
-# 🌿 Air Quality Index (AQI) Predictor
+# Air Quality Index (AQI) Predictor
 
 A machine learning web app that predicts Air Quality Index based on pollutant levels.
 
