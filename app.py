@@ -48,8 +48,3 @@ if st.button("Predict AQI"):
     st.markdown(f"### Predicted AQI: `{prediction:.2f}`")
     st.markdown(f"**Air Quality: <span style='color:{color}'>{level}</span>**",
                 unsafe_allow_html=True)
-
-streamlit
-joblib
-numpy
-scikit-learn
